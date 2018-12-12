@@ -1,0 +1,10 @@
+{
+  "name": "g-001",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "luzj <luzj@sinocbd.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
